@@ -25,12 +25,12 @@
 
 ### 🏆 Certifications & Virtual Experiences
 
-* [cite_start]**Network Nuts:** RHCE Training V9 [cite: 87] (Completed: 2026-03-14) [cite_start][cite: 91]
-* [cite_start]**AWS:** Solutions Architecture Job Simulation [cite: 21] (Completed: November 7th, 2025) [cite_start][cite: 23]
-* [cite_start]**Latham & Watkins:** Intellectual Property Litigation Job Simulation [cite: 47] (Completed: April 10th, 2024) [cite_start][cite: 49]
-* [cite_start]**Telstra:** Cybersecurity Virtual Experience Program [cite: 5] (Completed: February 19th, 2023) [cite_start][cite: 7]
-* [cite_start]**AIG:** Shields Up: Cybersecurity Virtual Experience Program [cite: 68, 69] (Completed: January 21st, 2023) [cite_start][cite: 71]
-* [cite_start]**ANZ:** Cyber Security Management Virtual Experience Program [cite: 34] (Completed: January 20th, 2023) [cite_start][cite: 36]
+* **Network Nuts:** RHCE Training V9 (March 2026)
+* **AWS:** Solutions Architecture Job Simulation (November 2025)
+* **Latham & Watkins:** Intellectual Property Litigation Job Simulation (April 2024)
+* **Telstra:** Cybersecurity Virtual Experience Program (February 2023)
+* **AIG:** Shields Up: Cybersecurity Virtual Experience Program (January 2023)
+* **ANZ:** Cyber Security Management Virtual Experience Program (January 2023)
 
 ### 🛠️ Languages & Tools
 
@@ -50,16 +50,16 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Infra-warrior">
     <img src="https://github-readme-stats.vercel.app/api?username=Infra-warrior&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Infra-warrior&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <a href="https://github.com/Infra-warrior">
+    <img src="https://streak-stats.demolab.com/?user=Infra-warrior&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Infra-warrior">
     <img src="https://github-profile-trophy.vercel.app/?username=Infra-warrior&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
