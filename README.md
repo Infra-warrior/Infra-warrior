@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me & Current Projects
 
 - 🔭 I’m currently building **[Linuxech Sovereign Agent](https://github.com/Infra-warrior/linuxech-Job-agent)** (React/FastAPI) and developing a **[Terminal-based Headless Virtualization Lab Builder](https://github.com/Infra-warrior/virt-lab-builder)** for optimized on-prem hardware use.
-- 🗄️ I'm also working on my **[Linuxech Master Project](https://github.com/Infra-warrior/Linuxech-master-project)** and a utility for **[System Cleanup](https://github.com/Infra-warrior/System_Cleanup)**.
+- 🗄️ I'm also working on my **[Sktin-to-style](https://github.com/Infra-warrior/Skin-to-style)** and a utility for **[System Cleanup](https://github.com/Infra-warrior/System_Cleanup)**.
 - 🌱 I’m actively deep-diving into **[RHCSA v9 preparations](https://github.com/Infra-warrior/RHCSA_learning)**.
 - 💼 I work as a Technical Support Advisor, with a strong background as a Security Analyst and Tech Support Engineer focusing on Linux Hosting, SIEM, and Monitoring.
 - 💬 Ask me about **Linux, DevOps, AWS, Azure, CI/CD pipelines, and Bash Scripting**.
@@ -31,6 +31,15 @@
 * **Telstra:** Cybersecurity Virtual Experience Program (February 2023)
 * **AIG:** Shields Up: Cybersecurity Virtual Experience Program (January 2023)
 * **ANZ:** Cyber Security Management Virtual Experience Program (January 2023)
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Infra-warrior">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Infra-warrior&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  </a>
+</p>
+
 
 ### 🛠️ Languages & Tools
 
