@@ -5,16 +5,18 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# This grants the robot permission to push the images back to your repo
 permissions:
   contents: write
+
+# This environment variable forces the runner to use Node 24, silencing the deprecation warning
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-cards
     steps:
-      # Updated to v4 to clear the Node.js warning
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
