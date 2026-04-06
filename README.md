@@ -32,14 +32,6 @@
 * **AIG:** Shields Up: Cybersecurity Virtual Experience Program (January 2023)
 * **ANZ:** Cyber Security Management Virtual Experience Program (January 2023)
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Infra-warrior">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Infra-warrior&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-  </a>
-</p>
-
 
 ### 🛠️ Languages & Tools
 
