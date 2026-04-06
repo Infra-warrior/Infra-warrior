@@ -2,16 +2,20 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    # This runs the automation automatically every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+# This grants the robot permission to push the images back to your repo
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-cards
     steps:
-      - uses: actions/checkout@v3
+      # Updated to v4 to clear the Node.js warning
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
