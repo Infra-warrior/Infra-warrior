@@ -52,10 +52,10 @@
 
 <p align="center">
   <a href="https://github.com/Infra-warrior">
-    <img src="https://github-readme-stats.vercel.app/api?username=Infra-warrior&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Infra-warrior&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Infra-warrior">
-    <img src="https://streak-stats.demolab.com/?user=Infra-warrior&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com/?user=Infra-warrior&theme=tokyonight&hide_border=true&v=1" alt="GitHub streak" />
   </a>
 </p>
 
