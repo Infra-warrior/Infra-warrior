@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me & Current Projects
 
-- 🔭 I’m currently building **[Linuxech Sovereign Agent](https://github.com/Infra-warrior/linuxech-Job-agent)** (React/FastAPI) and developing a **[Terminal-based Headless Virtualization Lab Builder](https://github.com/Infra-warrior/virt-lab-builder)** for optimized on-prem hardware use.
+- 🔭 I’m currently building **[Linuxech Job Agent](https://github.com/Infra-warrior/linuxech-Job-agent)** (React/FastAPI) and developing a **[Terminal-based Headless Virtualization Lab Builder](https://github.com/Infra-warrior/virt-lab-builder)** for optimized on-prem hardware use.
 - 🗄️ I'm also working on my **[Sktin-to-style](https://github.com/Infra-warrior/Skin-to-style)** and a utility for **[System Cleanup](https://github.com/Infra-warrior/System_Cleanup)**.
 - 🌱 I’m actively deep-diving into **[RHCSA v9 preparations](https://github.com/Infra-warrior/RHCSA_learning)**.
 - 💼 I work as a Technical Support Advisor, with a strong background as a Security Analyst and Tech Support Engineer focusing on Linux Hosting, SIEM, and Monitoring.
