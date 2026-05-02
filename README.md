@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashish+%F0%9F%91%8B;DevOps+%26+Infrastructure+Automation+Pro;Passionate+about+Linux+%26+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashish+%F0%9F%91%8B;Aspiring+SRE+%26+Cloud+Developer;Passionate+about+Linux+%26+Cloud" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <b>DevOps Support | Infrastructure Automation | Continuous Learner</b>
+  <b>Site Reliability Engineering | Infrastructure Automation | Cloud Native Developer</b>
 </p>
 
 <p align="center">
@@ -17,14 +17,17 @@
 ### 👨‍💻 About Me & Current Projects
 
 - 🔭 I’m currently building **[Linuxech Job Agent](https://github.com/Infra-warrior/linuxech-Job-agent)** (React/FastAPI) and developing a **[Terminal-based Headless Virtualization Lab Builder](https://github.com/Infra-warrior/virt-lab-builder)** for optimized on-prem hardware use.
-- 🗄️ I'm also working on my **[Sktin-to-style](https://github.com/Infra-warrior/Skin-to-style)** and a utility for **[System Cleanup](https://github.com/Infra-warrior/System_Cleanup)**.
-- 🌱 I’m actively deep-diving into **[RHCSA v9 preparations](https://github.com/Infra-warrior/RHCSA_learning)**.
-- 💼 I work as a Technical Support Advisor, with a strong background as a Security Analyst and Tech Support Engineer focusing on Linux Hosting, SIEM, and Monitoring.
-- 💬 Ask me about **Linux, DevOps, AWS, Azure, CI/CD pipelines, and Bash Scripting**.
+- ☁️ I am actively advancing my cloud-native skills, currently working through the **Google Cloud Professional Cloud Developer** path and building highly available architectures.
+- 🌱 I’m deep-diving into **[RHCSA v9 preparations](https://github.com/Infra-warrior/RHCSA_learning)** alongside foundational cloud security and architecture with **AZ-900 (Azure Fundamentals)**.
+- 🗄️ I'm also working on **[Skin-to-style](https://github.com/Infra-warrior/Skin-to-style)** and a utility for **[System Cleanup](https://github.com/Infra-warrior/System_Cleanup)**.
+- 💼 I work as a Senior Technical Advisor, bridging the gap between deep systems troubleshooting (Linux, SIEM, Monitoring) and infrastructure automation.
+- 💬 Ask me about **Linux, Google Cloud (GCP), Kubernetes, CI/CD pipelines, and Bash Scripting**.
 - 📫 How to reach me: **ashish.cloudpro@gmail.com**
 
-### 🏆 Certifications & Virtual Experiences
+### 🏆 Certifications, Badges & Virtual Experiences
 
+* **Google Cloud:** Implement Load Balancing on Compute Engine - Skill Badge (May 2026)
+* **Google Cloud:** Google Cloud Fundamentals: Core Infrastructure (May 2026)
 * **Network Nuts:** RHCE Training V9 (March 2026)
 * **AWS:** Solutions Architecture Job Simulation (November 2025)
 * **Latham & Watkins:** Intellectual Property Litigation Job Simulation (April 2024)
@@ -32,12 +35,12 @@
 * **AIG:** Shields Up: Cybersecurity Virtual Experience Program (January 2023)
 * **ANZ:** Cyber Security Management Virtual Experience Program (January 2023)
 
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,mysql,postgres,jenkins,githubactions,gitlab,react,vite,tailwind,fastapi" />
+    <!-- Added GCP and Azure to the skillicons list -->
+    <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,mysql,postgres,jenkins,githubactions,gitlab,react,vite,tailwind,fastapi,gcp,azure" />
   </a>
 </p>
 
