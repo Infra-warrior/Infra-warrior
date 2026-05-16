@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Added GCP and Azure to the skillicons list -->
-    <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,mysql,postgres,jenkins,githubactions,gitlab,react,vite,tailwind,fastapi,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,postgres,githubactions,gitlab,gcp,azure" />
   </a>
 </p>
 
