@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>Site Reliability Engineering | Infrastructure as Code | Cloud Architecture</b>
+  <b>Infrastructure as Code | Configuration Management | Site Reliability Engineering</b>
 </p>
 
 <p align="center">
@@ -16,29 +16,32 @@
 
 ### 👨‍💻 Engineering Focus & Philosophy
 
-- 🔭 I specialize in **infrastructure automation**, deep-systems troubleshooting, and designing resilient, highly available architectures.
-- 🌱 My current technical focus is deeply rooted in **Infrastructure as Code (IaC)**, learning to programmatically provision and manage infrastructure. 
-- ⚙️ I actively build and optimize **[Terminal-based Headless Virtualization Labs](https://github.com/Infra-warrior/virt-lab-builder)** (KVM/libvirt, Bash) to maximize on-prem hardware efficiency.
-- 🧠 I thrive on solving complex, low-level system problems and engineering clean, automated solutions that eliminate operational toil.
+- 🔭 I specialize in **Infrastructure as Code (IaC)**, deep-systems troubleshooting, and designing resilient, highly available architectures that eliminate operational toil.
+- 🌱 **Current Focus:** I am diving deep into **Configuration Management with Ansible**, actively practicing and writing playbooks to programmatically provision, configure, and manage server environments at scale. 
+- ⚙️ I actively build and optimize **[Terminal-based Headless Virtualization Labs](https://github.com/Infra-warrior/virt-lab-builder)** (KVM/libvirt, Bash) to maximize on-prem hardware efficiency, with an eye toward automating the underlying infrastructure.
+- 🏗️ I am also actively developing **Linuxech Sovereign Agent**, a full-stack project leveraging React and FastAPI.
+- 📚 Continually expanding my multi-cloud foundation, currently preparing for the **Microsoft Azure Fundamentals (AZ-900)** certification.
 - 🧪 **Project Highlight:** I built **[Skin-to-style](https://github.com/Infra-warrior/Skin-to-style)** as a testing ground for new concepts. I would appreciate it if you could test it out and share your feedback!
 - 📫 Connect with me: **ashish.cloudpro@gmail.com**
 
-### 🏆 Certifications
+### 🏆 Certifications & Training
 
 * **Red Hat Certified System Administrator (RHCSA v9)**
+* **Red Hat Certified Engineer (RHCE v9) Training Completed**
 
 ### 🛠️ Core Stack & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" />
   <img src="https://img.shields.io/badge/Linux_Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
 
 ### 📊 GitHub Activity
