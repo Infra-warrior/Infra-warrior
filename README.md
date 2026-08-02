@@ -20,7 +20,6 @@
 - 🌱 **Current Focus:** I am diving deep into **Configuration Management with Ansible**, actively practicing and writing playbooks to programmatically provision, configure, and manage server environments at scale. 
 - ⚙️ I actively build and optimize **[Terminal-based Headless Virtualization Labs](https://github.com/Infra-warrior/virt-lab-builder)** (KVM/libvirt, Bash) to maximize on-prem hardware efficiency, with an eye toward automating the underlying infrastructure.
 - 🏗️ I am also actively developing **Linuxech Sovereign Agent**, a full-stack project leveraging React and FastAPI.
-- 📚 Continually expanding my multi-cloud foundation, currently preparing for the **Microsoft Azure Fundamentals (AZ-900)** certification.
 - 🧪 **Project Highlight:** I built **[Skin-to-style](https://github.com/Infra-warrior/Skin-to-style)** as a testing ground for new concepts. I would appreciate it if you could test it out and share your feedback!
 - 📫 Connect with me: **ashish.cloudpro@gmail.com**
 
