@@ -26,8 +26,7 @@
 ### 🏆 Certifications & Training
 
 * **Red Hat Certified System Administrator (RHCSA v9)**
-* **Red Hat Certified Engineer (RHCE v9) Training Completed**
-* *In Progress:* **Microsoft Azure Fundamentals (AZ-900)**
+* **In Progress: Red Hat Certified Engineer (RHCE v9)**
 
 ### 🛠️ Core Stack & Technologies
 
